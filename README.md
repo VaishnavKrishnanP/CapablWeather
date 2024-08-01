@@ -29,6 +29,6 @@ This project is licensed under the GNU General Public License v3.0. See `LICENSE
 
 ## Credits
 
-* OpenWeatherMap API for providing the weather data.
-* Font Atomic Age for the title [here](https://fonts.google.com/specimen/Atomic+Age).
+* OpenWeatherMap API is used to provide weather data.
+* Font Atomic Age for the title can be found [here](https://fonts.google.com/specimen/Atomic+Age).
 * Playground.ai for generating the `img.jpeg` background image.
