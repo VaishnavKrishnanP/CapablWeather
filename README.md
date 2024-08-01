@@ -27,12 +27,12 @@ This project uses the OpenWeatherMap API. You can find the API documentation [he
 
 This project is licensed under the GNU General Public License v3.0. See `LICENSE` for details.
 
-### Screenshots
+### Screenshot:
 
 ![CapablWeather Screenshot](screenshot.png)
 
 ### Credits
 
 * OpenWeatherMap API for providing the weather data
-* Font Awesome for the weather icons
+* Font Atomic Age for the title [here](https://fonts.google.com/specimen/Atomic+Age)
 * Playground.ai for generating the `img.jpeg` background image
