@@ -1,5 +1,4 @@
 # CapablWeather
-================
 
 A simple 5-day weather forecast website using OpenWeatherMap API.
 
