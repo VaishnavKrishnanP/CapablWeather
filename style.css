@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    background-image: url("img.jpeg");
+    background-size: cover;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.logo {
+    font-family: 'Atomic Age', cursive;
+    font-size: 24px;
+}
+
+.search-bar {
+    flex-grow: 2;
+    text-align: center;
+}
+
+#city {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+}
+
+#weather {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.weather-section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.weather-info {
+    flex: 1;
+}
+
+.weather-icon {
+    max-width: 100px;
+    max-height: 100px;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.forecast {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.forecast-day {
+    width: 18%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.forecast-day .weather-icon {
+    max-width: 100%;
+    max-height: 100px;
+    margin: 10px 0;
+}
+
+.forecast-heading {
+    max-width: 100%;
+    text-align: left;
+    margin-bottom: 0px;
+    background-color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 5px;
+}
